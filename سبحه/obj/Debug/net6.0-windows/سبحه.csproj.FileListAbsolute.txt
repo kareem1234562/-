@@ -1,0 +1,36 @@
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\bin\Debug\net6.0-windows\سبحه.exe
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\bin\Debug\net6.0-windows\سبحه.deps.json
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\bin\Debug\net6.0-windows\سبحه.runtimeconfig.json
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\bin\Debug\net6.0-windows\سبحه.dll
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\bin\Debug\net6.0-windows\سبحه.pdb
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.csproj.AssemblyReference.cache
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.Form1.resources
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.Properties.Resources.resources
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.csproj.GenerateResource.cache
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.AssemblyInfoInputs.cache
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.AssemblyInfo.cs
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.csproj.CoreCompileInputs.cache
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.dll
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\obj\Debug\net6.0-windows\refint\سبحه.dll
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.pdb
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.genruntimeconfig.cache
+C:\Users\Kareem Elsum\source\repos\سبحه\سبحه\obj\Debug\net6.0-windows\ref\سبحه.dll
+G:\سبحه\سبحه\bin\Debug\net6.0-windows\سبحه.exe
+G:\سبحه\سبحه\bin\Debug\net6.0-windows\سبحه.deps.json
+G:\سبحه\سبحه\bin\Debug\net6.0-windows\سبحه.runtimeconfig.json
+G:\سبحه\سبحه\bin\Debug\net6.0-windows\سبحه.dll
+G:\سبحه\سبحه\bin\Debug\net6.0-windows\سبحه.pdb
+G:\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.csproj.AssemblyReference.cache
+G:\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.Form1.resources
+G:\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.Properties.Resources.resources
+G:\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.csproj.GenerateResource.cache
+G:\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.GeneratedMSBuildEditorConfig.editorconfig
+G:\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.AssemblyInfoInputs.cache
+G:\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.AssemblyInfo.cs
+G:\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.csproj.CoreCompileInputs.cache
+G:\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.dll
+G:\سبحه\سبحه\obj\Debug\net6.0-windows\refint\سبحه.dll
+G:\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.pdb
+G:\سبحه\سبحه\obj\Debug\net6.0-windows\سبحه.genruntimeconfig.cache
+G:\سبحه\سبحه\obj\Debug\net6.0-windows\ref\سبحه.dll
